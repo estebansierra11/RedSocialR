@@ -60,7 +60,7 @@ if (isset($_POST['update'])) {
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="estilaco.css">
+    <link rel="stylesheet" href="estilos2.css">
     <title></title>
   </head>
   <body>
